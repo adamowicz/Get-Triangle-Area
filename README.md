@@ -2,10 +2,9 @@
 
 Just another training project with JavaScript basics:
 
-- prompt,
-- alert,
 - console.log,
 - math operations,
+- function,
 - conditional statements.
 
 Used:
