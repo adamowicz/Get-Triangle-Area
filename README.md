@@ -1,4 +1,4 @@
-#Get-Triangle-Area
+# Get-Triangle-Area
 
 Just another training project with JavaScript basics:
 
